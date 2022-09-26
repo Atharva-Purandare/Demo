@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_1">The giant squid has the smallest eyes in the world .</string>
+    <string name="question_2">Tongue is the weakest muscle of the body.</string>
+    <string name="question_3">Hot water will turn into ice faster than cold water.</string>
+    <string name="question_4">Ants take rest for around 1 hour.</string>
+    <string name="question_5">A Shrimp heart is in its head.</string>
+    <string name="question_6">It is impossible for most people to lick their own elbow.</string>
+    <string name="question_7">There are 293 ways to make change for a dollar.</string>
+    <string name="question_8">A cat has 32 muscles in each ear.</string>
+    <string name="question_9">There are 400 days in a year</string>
+    <string name="question_10">2022 is a leap year.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+</resources>
